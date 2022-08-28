@@ -1,0 +1,16 @@
+D:\blog\blog-parent\blog-admin\src\main\java\com\yun\admin\AdminAPP.java
+D:\blog\blog-parent\blog-admin\src\main\java\com\yun\admin\service\PermissionService.java
+D:\blog\blog-parent\blog-admin\src\main\java\com\yun\admin\model\params\PageParam.java
+D:\blog\blog-parent\blog-admin\src\main\java\com\yun\admin\entity\Admin.java
+D:\blog\blog-parent\blog-admin\src\main\java\com\yun\admin\entity\Permission.java
+D:\blog\blog-parent\blog-admin\src\main\java\com\yun\admin\mapper\PermissionMapper.java
+D:\blog\blog-parent\blog-admin\src\main\java\com\yun\admin\mapper\AdminMapper.java
+D:\blog\blog-parent\blog-admin\src\main\java\com\yun\admin\service\SecurityUserService.java
+D:\blog\blog-parent\blog-admin\src\main\java\com\yun\admin\vo\Result.java
+D:\blog\blog-parent\blog-admin\src\main\java\com\yun\admin\service\AdminService.java
+D:\blog\blog-parent\blog-admin\src\main\java\com\yun\admin\service\impl\PermissionServiceImpl.java
+D:\blog\blog-parent\blog-admin\src\main\java\com\yun\admin\vo\PageResult.java
+D:\blog\blog-parent\blog-admin\src\main\java\com\yun\admin\config\SecurityConfig.java
+D:\blog\blog-parent\blog-admin\src\main\java\com\yun\admin\controller\AdminController.java
+D:\blog\blog-parent\blog-admin\src\main\java\com\yun\admin\service\AuthService.java
+D:\blog\blog-parent\blog-admin\src\main\java\com\yun\admin\config\MybatisPlusConfig.java
